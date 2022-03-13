@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="17" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="ojdbc6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/code/bin/ojdbc6.jar!/"/>
+	</lib>
+	<lib name="json-simple-1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/code/bin/json-simple-1.1.jar!/"/>
+	</lib>
+	<lib name="ojdbc8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/code/bin/ojdbc8.jar!/"/>
+	</lib>
+	<lib name="ojdbc10.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/code/bin/ojdbc10.jar!/"/>
+	</lib>
+	<levels>
+		<level name="bin" value="project"/>
+	</levels>
+</component>
